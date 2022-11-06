@@ -1,0 +1,635 @@
+
+OUTPUT :
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 1
+
+Enter name : Sakshi
+Enter 1st mobile number : 5789
+
+Do you want to add another mobile number in the same contact ?
+If yes then enter 1 , else enter 0 : 1
+Enter 2nd mobile number : 454
+
+Do you want to add this contact in your favourite list ?
+If yes then enter 1 , else enter 0 : 1
+........YOU HAVE SUCESSFULLY ADDED A CONTACT IN YOUR PHONEBOOK........
+
+Do you want to continue adding contacts in your phonebook ?
+If Yes the enter 'Y' or 'y' , else enter 'N' or 'n': y
+
+Enter name : Neha
+Enter 1st mobile number : 23678
+
+Do you want to add another mobile number in the same contact ?
+If yes then enter 1 , else enter 0 : 1
+Enter 2nd mobile number : 788889
+
+Do you want to add this contact in your favourite list ?
+If yes then enter 1 , else enter 0 : 0
+........YOU HAVE SUCESSFULLY ADDED A CONTACT IN YOUR PHONEBOOK........
+
+Do you want to continue adding contacts in your phonebook ?
+If Yes the enter 'Y' or 'y' , else enter 'N' or 'n': y
+
+Enter name : Vanshika
+Enter 1st mobile number : 256785
+
+Do you want to add another mobile number in the same contact ?
+If yes then enter 1 , else enter 0 : 0
+Do you want to add this contact in your favourite list ?
+If yes then enter 1 , else enter 0 : 0
+........YOU HAVE SUCESSFULLY ADDED A CONTACT IN YOUR PHONEBOOK........
+
+Do you want to continue adding contacts in your phonebook ?
+If Yes the enter 'Y' or 'y' , else enter 'N' or 'n': y
+
+Enter name : Shivani
+Enter 1st mobile number : 56538
+
+Do you want to add another mobile number in the same contact ?
+If yes then enter 1 , else enter 0 : 0
+Do you want to add this contact in your favourite list ?
+If yes then enter 1 , else enter 0 : 1
+........YOU HAVE SUCESSFULLY ADDED A CONTACT IN YOUR PHONEBOOK........
+
+Do you want to continue adding contacts in your phonebook ?
+If Yes the enter 'Y' or 'y' , else enter 'N' or 'n': n
+
+=============================================================================================================
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 2
+
+Enter a name you want to search : neha
+Contact not found !!
+==================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 2
+
+Enter a name you want to search : Neha
+Contact found !!
+Name            : Neha
+Mobile Number 1 : 23678
+Mobile Number 2 : 788889
+==================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 4
+
+CONTACT 1 :
+---------
+Name     : Shivani
+Number 1 : 56538
+Number 2 :
+
+CONTACT 2 :
+---------
+Name     : Vanshika
+Number 1 : 256785
+Number 2 :
+
+CONTACT 3 :
+---------
+Name     : Neha
+Number 1 : 23678
+Number 2 : 788889
+
+CONTACT 4 :
+---------
+Name     : Sakshi
+Number 1 : 5789
+Number 2 : 454
+
+====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 5
+
+CONTACTS IN FAVOURITES :
+
+CONTACT 1 :
+---------
+Name     : Shivani
+Number 1 : 56538
+Number 2 :
+
+CONTACT 2 :
+---------
+Name     : Sakshi
+Number 1 : 5789
+Number 2 : 454
+
+====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 6
+
+Enteráname of contact which you want to edit : Vanshika
+Which field you want to update ?
+1. Name
+2. Phone number
+3. Name and number both
+Select an option : 1
+Enter new name : Van
+
+.......CONTACT UPDATED SUCCESSFULLY !!.......
+
+=====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 2
+
+Enter a name you want to search : Van
+Contact found !!
+Name            : Van
+Mobile Number 1 : 256785
+Mobile Number 2 :
+==================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 7
+
+Enter name of contact you want to add in the blocklist : Shivani
+........CONTACT UPDATED SUCCESSFULLY !!.......
+=====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 7
+
+Enter name of contact you want to add in the blocklist : Neha
+........CONTACT UPDATED SUCCESSFULLY !!.......
+=====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 8
+
+CONTACT 1 :
+---------
+Name     : Shivani
+Number 1 : 56538
+Number 2 :
+
+CONTACT 2 :
+---------
+Name     : Neha
+Number 1 : 23678
+Number 2 : 788889
+
+======================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 4
+
+CONTACT 1 :
+---------
+Name     : Van
+Number 1 : 256785
+Number 2 :
+
+CONTACT 2 :
+---------
+Name     : Sakshi
+Number 1 : 5789
+Number 2 : 454
+
+====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 10
+
+Enter the contact which you want to remove from block list (i.e. permanently from the phonebook : Shivani
+CONTACT DELETED SUSSFULLY=====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 4
+
+CONTACT 1 :
+---------
+Name     : Van
+Number 1 : 256785
+Number 2 :
+
+CONTACT 2 :
+---------
+Name     : Sakshi
+Number 1 : 5789
+Number 2 : 454
+
+====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 8
+
+CONTACT 1 :
+---------
+Name     : Neha
+Number 1 : 23678
+Number 2 : 788889
+
+======================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 3
+
+Total number of contacts : 2
+===================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 13
+
+NO MATCH FOUND !!
+Please enter a valid choice.
+======================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 12
+
+Enter the contact which you want to remove from block list and add back in the phonebook : Neha
+........YOU HAVE SUCESSFULLY ADDED A CONTACT IN YOUR PHONEBOOK........
+
+........CONTACT ADDED BACK TO PHONEBOOK.......
+=====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 4
+
+CONTACT 1 :
+---------
+Name     : Neha
+Number 1 : 23678
+Number 2 : 788889
+
+CONTACT 2 :
+---------
+Name     : Van
+Number 1 : 256785
+Number 2 :
+
+CONTACT 3 :
+---------
+Name     : Sakshi
+Number 1 : 5789
+Number 2 : 454
+
+====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 8
+
+PHONEBOOK IS EMPTY
+======================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 9
+
+Enter name of contact which you want to delete : Sakshi
+CONTACT DELETED SUSSFULLY=====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 4
+
+CONTACT 1 :
+---------
+Name     : Neha
+Number 1 : 23678
+Number 2 : 788889
+
+CONTACT 2 :
+---------
+Name     : Van
+Number 1 : 256785
+Number 2 :
+
+====================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option : 3
+
+Total number of contacts : 2
+===================================================================================================================
+
+--------------------------PhoneBook--------------------------
+
+1. Add a new contact.
+2.Search a contact.
+3.Count total number of contacts.
+4.Display list of all contacts.
+5.Display favourite contacts.
+6.Update/edit a contact.
+7.Add a contact to blocklist.
+8.Display contacts in blocklist.
+9.delete contact from phonebook
+10.Remove a contact from blocklist (i.e. permanently from phonebook).
+11. Clear phonebook.
+12. Remove a contact from blocklist and again move it in phonebook
+
+Select an option :
